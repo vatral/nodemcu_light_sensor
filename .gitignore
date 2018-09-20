@@ -24,3 +24,8 @@ _autosave-*
 # Exported BOM files
 *.xml
 *.csv
+
+# Gerber
+*.gbr
+*.drl
+*.zip
